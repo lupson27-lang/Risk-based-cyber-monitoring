@@ -1,3 +1,12 @@
+## Repository Contents
+
+1. [README.md](README.md) — Project overview and executive summary  
+2. [risk_register.md](risk_register.md) — Example risk entries for IT & OT  
+3. [monitoring_strategy.md](monitoring_strategy.md) — Risk-driven monitoring plan  
+4. [coverage_gaps_and_accepted_risk.md](coverage_gaps_and_accepted_risk.md) — Monitored and unmonitored areas  
+5. [roles_and_accountability.md](roles_and_accountability.md) — Ownership and escalation mapping  
+6. [executive_metrics.md](executive_metrics.md) — Metrics for leadership and audit
+
 # Risk-based-cyber-monitoring
 Risk-driven cybersecurity monitoring model integrating GRC, EDR/XDR concepts, and OT considerations.
 Risk-Based Cybersecurity Monitoring Model (IT & OT)
