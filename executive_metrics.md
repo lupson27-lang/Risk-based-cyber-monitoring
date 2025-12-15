@@ -1,0 +1,9 @@
+| Metric                             | Description                                            | Source                                | Reporting Frequency | Target / Benchmark                              |
+| ---------------------------------- | ------------------------------------------------------ | ------------------------------------- | ------------------- | ----------------------------------------------- |
+| Critical Asset Coverage            | Percentage of high-risk assets under active monitoring | Monitoring strategy + asset inventory | Quarterly           | ≥ 95%                                           |
+| Mean Time to Detect (MTTD)         | Average time from incident occurrence to detection     | SIEM / EDR/XDR logs                   | Monthly             | ≤ 4 hours for critical incidents                |
+| Mean Time to Respond (MTTR)        | Average time to contain and remediate incidents        | Incident response records             | Monthly             | ≤ 8 hours for critical incidents                |
+| Number of Repeated Incidents       | Recurring incidents by asset or control                | SIEM / Incident database              | Monthly             | Decreasing trend over time                      |
+| Alerts by Severity                 | Distribution of low, medium, high alerts               | SIEM / SOC dashboards                 | Weekly              | Trend-based, for executive insight              |
+| Unmonitored Asset Exceptions       | Critical assets with coverage gaps                     | `coverage_gaps_and_accepted_risk.md`  | Quarterly           | Minimal, documented with residual risk          |
+| Regulatory / Compliance Exceptions | Gaps affecting legal or industry obligations           | Compliance audits                     | Quarterly           | All exceptions documented with mitigation plans |
