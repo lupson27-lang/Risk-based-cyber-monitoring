@@ -17,3 +17,5 @@ This project presents a risk-driven approach to cybersecurity monitoring, integr
 Rather than focusing on tools or alert volume, the model prioritizes business-critical, safety-critical, and regulated assets, ensuring that monitoring supports risk reduction, accountability, and informed decision-making.
 
 The model is designed to be applicable to enterprise IT environments as well as Operational Technology (OT) / Industrial Control Systems (ICS), where availability and safety constraints require explicit governance decisions.
+![Risk-Based Monitoring Model](risk_monitoring_model.png)
+
