@@ -19,6 +19,11 @@ Rather than focusing on tools or alert volume, the model prioritizes business-cr
 The model is designed to be applicable to enterprise IT environments as well as Operational Technology (OT) / Industrial Control Systems (ICS), where availability and safety constraints require explicit governance decisions.
 
 ![Risk-Based Monitoring Model](diagrams/risk_monitoring_model.png)
+# Risk-Based Cybersecurity Monitoring
+
+![Risk-Based Monitoring Flow](risk_based_monitoring_flow.png)
+
+<rest of your README text>
 
 
 
