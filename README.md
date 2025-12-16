@@ -1,5 +1,8 @@
 # Risk-Based Cybersecurity Monitoring
 
+![Last Commit](https://img.shields.io/github/last-commit/lupson27-lang/Risk-based-cyber-monitoring)
+![Repo Size](https://img.shields.io/github/repo-size/lupson27-lang/Risk-based-cyber-monitoring)
+
 ![Risk-Based Monitoring Flow](risk_based_monitoring_flow.png)
 
 Risk-driven cybersecurity monitoring model integrating Governance, Risk, and Compliance (GRC) principles with technical detection capabilities such as EDR/XDR, with considerations for both IT and OT environments.
